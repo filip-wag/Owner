@@ -1,9 +1,12 @@
 [submodule "NetworkingModule"]
 	path = NetworkingModule
-	url = https://github.com/filip-wag/NetworkingModule
+	url = https://github.com/filip-wag/NetworkingModule.git
+	branch = master
 [submodule "CommonModule"]
 	path = CommonModule
-	url = https://github.com/filip-wag/CommonModule
+	url = https://github.com/filip-wag/CommonModule.git
+	branch = master
 [submodule "ComponentModule"]
 	path = ComponentModule
-	url = https://github.com/filip-wag/ComponentModule
+	url = https://github.com/filip-wag/ComponentModule.git
+	branch = master
